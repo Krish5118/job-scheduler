@@ -92,7 +92,7 @@ All data is stored in a single MySQL table named `jobs`.
 5.  **Completion**: Backend updates status to `completed`.
 6.  **Notification**: Backend sends a POST request with job details to the **Webhook URL**.
 
-## 8. AI Usage Log (MANDATORY)
+## 8. AI Usage Log 
 
 **AI Tool**: Google Gemini
 **Model**: Gemini 2.0 Flash
